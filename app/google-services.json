@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541916907024",
+    "firebase_url": "https://stonerecognizer.firebaseio.com",
+    "project_id": "stonerecognizer",
+    "storage_bucket": "stonerecognizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541916907024:android:f42ebb61654f5a6bbdac95",
+        "android_client_info": {
+          "package_name": "com.example.stonerecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541916907024-924e95lcjn0hf7d0bh514laqopq2jdmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stonerecognizer",
+            "certificate_hash": "c25f2f6c2f1ac1e6a594a74680f1ad72ef68c5b9"
+          }
+        },
+        {
+          "client_id": "541916907024-ientnku3bq8edktfpbvhddt89h535183.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjXjTFmRjH8cpPcYr__9itnmigvh2q90I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541916907024-ientnku3bq8edktfpbvhddt89h535183.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
